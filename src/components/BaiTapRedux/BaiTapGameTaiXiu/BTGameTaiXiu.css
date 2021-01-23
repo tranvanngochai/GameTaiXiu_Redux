@@ -1,0 +1,34 @@
+.bgGame{
+    background-image: url('./nen.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;   
+    width: 100%;
+    height: 800px;
+}
+.hoverXiu:hover, .hoverTai:hover{
+    border: solid 3px red;
+}
+.xoc{
+    height: 100px;
+    width: 130px;
+}
+.xoc:hover{
+    height: 120px;
+    width: 150px;
+}
+.thongTin{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color:salmon;
+}
+.tenGame{
+    font-family: 'Dancing Script', cursive;
+    color:salmon;
+    font-size: 100px;
+}
+.fullThongTin{
+    margin-bottom: 30px;
+}
+.imgXucXac{
+    margin: 50px 50px;
+}
