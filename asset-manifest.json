@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GameTaiXiu_Redux/static/css/main.4cc4b0e2.chunk.css",
+    "main.js": "/GameTaiXiu_Redux/static/js/main.7d6decc7.chunk.js",
+    "main.js.map": "/GameTaiXiu_Redux/static/js/main.7d6decc7.chunk.js.map",
+    "runtime-main.js": "/GameTaiXiu_Redux/static/js/runtime-main.8d74ccd1.js",
+    "runtime-main.js.map": "/GameTaiXiu_Redux/static/js/runtime-main.8d74ccd1.js.map",
+    "static/js/2.32b8753f.chunk.js": "/GameTaiXiu_Redux/static/js/2.32b8753f.chunk.js",
+    "static/js/2.32b8753f.chunk.js.map": "/GameTaiXiu_Redux/static/js/2.32b8753f.chunk.js.map",
+    "static/js/3.944fa288.chunk.js": "/GameTaiXiu_Redux/static/js/3.944fa288.chunk.js",
+    "static/js/3.944fa288.chunk.js.map": "/GameTaiXiu_Redux/static/js/3.944fa288.chunk.js.map",
+    "index.html": "/GameTaiXiu_Redux/index.html",
+    "static/css/main.4cc4b0e2.chunk.css.map": "/GameTaiXiu_Redux/static/css/main.4cc4b0e2.chunk.css.map",
+    "static/js/2.32b8753f.chunk.js.LICENSE.txt": "/GameTaiXiu_Redux/static/js/2.32b8753f.chunk.js.LICENSE.txt",
+    "static/media/BTGameTaiXiu.css": "/GameTaiXiu_Redux/static/media/nen.70e6614f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d74ccd1.js",
+    "static/js/2.32b8753f.chunk.js",
+    "static/css/main.4cc4b0e2.chunk.css",
+    "static/js/main.7d6decc7.chunk.js"
+  ]
+}
